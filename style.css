@@ -1,0 +1,69 @@
+.background {
+    background-color: #33cfff;
+}
+
+
+
+
+label { 
+    font-weight: bolder;
+    margin-right:50px;
+}
+.social icons {
+    flex-direction: column;
+    justify-content: center;
+}
+.social-icons li {
+    width:30px;
+    height:30px;
+}
+.table   {
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    color: rgb(38, 24, 231);
+    font-size: medium;
+    border: 3px solid black;
+    display: block;
+    margin-left: 300px;
+    margin-top: 50px;
+
+    
+} 
+input[type="submit"]{
+    width: 70px;
+    height: 50px;
+    border: none;
+    background: #33A7ff;
+    color: white;
+}
+
+.navbar-link{
+    float: right;
+    width: 100px;
+    background-color: blue;
+    color: rgb(223, 20, 20);
+    border: 1px solid black;
+    list-style-type: none;
+    height: 20px;
+}
+
+.navbar{
+    width: 100%; background-color: white;
+    height: 25px;
+    
+}
+
+li {
+    float: right;
+  }
+  
+ li a {
+    display: block;
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    list-style-type: none;
+  }
+  
